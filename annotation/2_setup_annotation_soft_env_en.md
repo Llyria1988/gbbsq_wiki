@@ -4,23 +4,23 @@
 **Squidle+** allows us to annotate **biological image records in some different annotation workflows and different annotation modes** eg: whole-frame, points, polygons, bounding boxes, multiple labels per annotation with tags & comments.
 
 ### Squidle+ & SquidvidPRO
-For the Arctic video record annotation, we use both **Squidle+** and **SquidvidPRO**. **Squidle+** is an annotation (tagging) specialised software, **SquidvidPRO** is a video player with capture function etc, and that sends frame grabs to **Squidle+**.
+For the Arctic video record annotation, we use both **Squidle+** and **SquidvidPRO**. **Squidle+** is software specialised in annotation (tagging), **SquidvidPRO** is a video player with capture function etc, that sends framegrabs to **Squidle+**.
 
-### Set up Annatation
+### Set up Annotation
 
 Let's start setting up your annotation environment!
 
-#### 1. Logging in Squidle+: 
+#### 1. Logging into Squidle+: 
    1. Click the Squidle+ icon and open the app
    ![Squidle+](../images/4_SquidleApp_1.png)
 
    1. Click **Log in >>**
    ![Log in](../images/5_SquidleApp_2.png)
 
-   1. Loggin in with your **username**
+   1. Log in in with your **username**
    Your username is already prepared in advance.
-   Ask it the representatives in GODAC or decide which username you should use in the annotation group.
-   ***One annotator has to have own username.**
+   Ask it from the representatives in GODAC or decide which username you should use in the annotation group.
+   ***Each annotator has to have their own username.**
    **Example)**
    `Email or usename: GodacOne`
    `Password: godac`
@@ -38,12 +38,12 @@ Let's start setting up your annotation environment!
 
    1. Open **SquidvidPRO**
    ![SquidvidPRO](../images/10_SquidvidPROApp_1.png)
-   Then aline **SquidvidPRO** & **Frameplay GUI** windows as below
+   Then a line **SquidvidPRO** & **Frameplay GUI** windows as below
    ![SquidvidPRO and Frameplay GUI](../images/11_SquidvidPROApp_and_FrameplayGUI_1.png)
 
 #### 3. Getting API TOKEN and SquidvidPRO SETUP
    1. Get **API TOKEN**
-   Click a **Key** icon just next to your username on **Frameplay GUI**
+   Click the **Key** icon just next to your username on **Frameplay GUI**
    ![API TOKEN](../images/12_SquidvidPROApp_and_FrameplayGUI_2.png)
 
    1. Copy **API TOKEN** to **SQ+ API Key:** on SquidvidPRO SETUP
