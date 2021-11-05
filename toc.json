@@ -1,6 +1,6 @@
 [
   {
-    "name": "Annotation",
+    "name": "Annotation/注釈",
     "documents": [
       {
         "name": "2 setup annotation soft env en",
@@ -10,14 +10,14 @@
         "location": "/wiki/annotation"
       },
       {
-        "name": "Annotate media en",
+        "name": "Annotate media",
         "section": "Annotation",
         "document": "annotation/annotate_media_en",
         "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/annotate_media_en.md",
         "location": "/wiki/annotation"
       },
       {
-        "name": "Annotate media jp",
+        "name": "メディアに注釈を付ける",
         "section": "Annotation",
         "document": "annotation/annotate_media_jp",
         "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/annotate_media_jp.md",
