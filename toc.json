@@ -10,10 +10,17 @@
         "location": "/wiki/annotation"
       },
       {
-        "name": "Annotate media",
+        "name": "Annotate media en",
         "section": "Annotation",
-        "document": "annotation/annotate_media",
-        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/annotate_media.md",
+        "document": "annotation/annotate_media_en",
+        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/annotate_media_en.md",
+        "location": "/wiki/annotation"
+      },
+      {
+        "name": "Annotate media jp",
+        "section": "Annotation",
+        "document": "annotation/annotate_media_jp",
+        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/annotate_media_jp.md",
         "location": "/wiki/annotation"
       }
     ]
@@ -60,18 +67,6 @@
         "document": "setup/1_setup_physical_env_en",
         "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/setup/1_setup_physical_env_en.md",
         "location": "/wiki/setup"
-      }
-    ]
-  },
-  {
-    "name": "\u6ce8\u91c8",
-    "documents": [
-      {
-        "name": "\u30e1\u30c7\u30a3\u30a2\u306b\u6ce8\u91c8\u3092\u4ed8\u3051\u308b",
-        "section": "\u6ce8\u91c8",
-        "document": "\u6ce8\u91c8/\u30e1\u30c7\u30a3\u30a2\u306b\u6ce8\u91c8\u3092\u4ed8\u3051\u308b",
-        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/\u6ce8\u91c8/\u30e1\u30c7\u30a3\u30a2\u306b\u6ce8\u91c8\u3092\u4ed8\u3051\u308b.md",
-        "location": "/wiki/\u6ce8\u91c8"
       }
     ]
   }
