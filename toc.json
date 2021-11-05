@@ -17,7 +17,7 @@
         "location": "/wiki/annotation"
       },
       {
-        "name": "メディアに注釈を付ける",
+        "name": "Annotate media JP",
         "section": "Annotation",
         "document": "annotation/annotate_media_jp",
         "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/annotate_media_jp.md",
