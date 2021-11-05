@@ -1,11 +1,9 @@
 # アノテーションのためのソフトウェアー環境セットアップ 
 
 ### Squidle+について
-**Squidle+**を利用することで、**生物学的な画像記録データに対し様々なワークフローやモードでアノテーションすることが可能になります。**　例）フレーム全体、ポイント、ポリゴン、バウンディングボックス、アノテーションごとのタグ付けやコメントなどの複数ラベルなどです。
+**Squidle+**　を利用することで、**生物学的な画像記録データに対し様々なワークフローやモードでアノテーションすることが可能になります。**　例）フレーム全体、ポイント、ポリゴン、バウンディングボックス、アノテーションごとにタグ付けやコメントなどを複数ラベル付与すること。
 
-**Squidle+** allows us to annotate **biological image records in some different annotation workflows and different annotation modes** eg: whole-frame, points, polygons, bounding boxes, multiple labels per annotation with tags & comments.
-
-### Squidle+ & SquidvidPRO
+### Squidle+ と SquidvidPRO
 For the Arctic video record annotation, we use both **Squidle+** and **SquidvidPRO**. **Squidle+** is software specialised in annotation (tagging), **SquidvidPRO** is a video player with capture function etc, that sends framegrabs to **Squidle+**.
 
 ### Set up Annotation
