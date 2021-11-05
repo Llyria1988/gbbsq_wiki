@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Annotation",
+    "documents": [
+      {
+        "name": "2 setup annotation soft env en",
+        "section": "Annotation",
+        "document": "annotation/2_setup_annotation_soft_env_en",
+        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/2_setup_annotation_soft_env_en.md",
+        "location": "/wiki/annotation"
+      },
+      {
+        "name": "Annotate media",
+        "section": "Annotation",
+        "document": "annotation/annotate_media",
+        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/annotate_media.md",
+        "location": "/wiki/annotation"
+      }
+    ]
+  },
+  {
+    "name": "Data export",
+    "documents": [
+      {
+        "name": "Download media objects",
+        "section": "Data export",
+        "document": "data_export/download_media_objects",
+        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/data_export/download_media_objects.md",
+        "location": "/wiki/data_export"
+      },
+      {
+        "name": "Exporting annotations",
+        "section": "Data export",
+        "document": "data_export/exporting_annotations",
+        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/data_export/exporting_annotations.md",
+        "location": "/wiki/data_export"
+      },
+      {
+        "name": "Exporting media collections",
+        "section": "Data export",
+        "document": "data_export/exporting_media_collections",
+        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/data_export/exporting_media_collections.md",
+        "location": "/wiki/data_export"
+      },
+      {
+        "name": "Extracting annotation summaries",
+        "section": "Data export",
+        "document": "data_export/extracting_annotation_summaries",
+        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/data_export/extracting_annotation_summaries.md",
+        "location": "/wiki/data_export"
+      }
+    ]
+  },
+  {
+    "name": "Setup",
+    "documents": [
+      {
+        "name": "1 setup physical env en",
+        "section": "Setup",
+        "document": "setup/1_setup_physical_env_en",
+        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/setup/1_setup_physical_env_en.md",
+        "location": "/wiki/setup"
+      }
+    ]
+  },
+  {
+    "name": "\u6ce8\u91c8",
+    "documents": [
+      {
+        "name": "\u30e1\u30c7\u30a3\u30a2\u306b\u6ce8\u91c8\u3092\u4ed8\u3051\u308b",
+        "section": "\u6ce8\u91c8",
+        "document": "\u6ce8\u91c8/\u30e1\u30c7\u30a3\u30a2\u306b\u6ce8\u91c8\u3092\u4ed8\u3051\u308b",
+        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/\u6ce8\u91c8/\u30e1\u30c7\u30a3\u30a2\u306b\u6ce8\u91c8\u3092\u4ed8\u3051\u308b.md",
+        "location": "/wiki/\u6ce8\u91c8"
+      }
+    ]
+  }
+]
