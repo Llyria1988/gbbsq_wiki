@@ -1,6 +1,8 @@
-# Set up the software environment for the Arctic dataset annotation 
+# アノテーションのためのソフトウェアー環境セットアップ 
 
-### About Squidle+
+### Squidle+について
+**Squidle+**を利用することで、**生物学的な画像記録データに対し様々なワークフローやモードでアノテーションすることが可能になります。**　例）フレーム全体、ポイント、ポリゴン、バウンディングボックス、アノテーションごとのタグ付けやコメントなどの複数ラベルなどです。
+
 **Squidle+** allows us to annotate **biological image records in some different annotation workflows and different annotation modes** eg: whole-frame, points, polygons, bounding boxes, multiple labels per annotation with tags & comments.
 
 ### Squidle+ & SquidvidPRO
