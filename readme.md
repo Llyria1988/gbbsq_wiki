@@ -1,5 +1,9 @@
 #This is the repository which provide technical support for annotating Arctic ROV research dataset that is collected using ROV Global Explorer during a RV/HEALY cruise No.1601.<br>
 #これは、米国の研究船*HEALY*の1601航海でROV/*Global Explorer*によって取得されたデータセットをアノテーションするための技術的なサポートを提供するレポジトリです。<br>
 
-**Step１．アノテーションシステムGBB5の機器セットについて**<br>
+
+**Step1．[アノテーションのためのソフトウェア環境セットアップ](../annotation/setup_annotation_software_environment_jp.md)を始めましょう。**<br>
+**Step1．[Set up the software environment for the Arctic dataset annotation](../annotation/setup_annotation_software_environment_en.md)**
+
+**Step2．[アノテーションのためのソフトウェア環境セットアップ](../annotation/setup_annotation_software_environment_jp.md)を始めましょう。**<br>
 **Step2．[Set up the software environment for the Arctic dataset annotation](../annotation/setup_annotation_software_environment_en.md)**
