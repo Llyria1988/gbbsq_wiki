@@ -57,11 +57,11 @@
    
    1. ビデオファイルをロードする
    ハードディスクから **Video path:** へビデオファイルをロードします。<br>
-   ![SquidvidPRO_setup_2](../images/15_SquidvidPRO_setup_2.PNG)
+   ![SquidvidPRO_setup_2](../images/15_SquidvidPRO_setup_2.png)
 
    1. **Video start time:** と **Camera code:** を **Video path:** から取得
       1. **Video start time:** は、ファイル名の末尾にある`.mov`の直前の項目を引用します。 それらは **`2016xxxTxxxxxx.xxxxZ`** のよう記述されています。**Zの直前までの** の文字列を **Video start time:** の項目にコピーペーストして下さい。（選択項目のドラッグ＆ドロップでもコピーペースト可能です。）
-      1. **Camera code:** は、ファイル名の `camera_type-camera_angle-camera_resolution` (例： 4K-pantilt-4K30p) の項目を引用します。 これらを **Camera code:**　にコピーペーストして下さい。（選択項目のドラッグ＆ドロップでもコピーペースト可能です。）
+      1. **Camera code:** は、ファイル名の `camera_type-camera_angle-camera_resolution` (例： 4K-pantilt-4K30p) の項目を引用します。 これらを **Camera code:**　にコピーペーストして下さい。（選択項目のドラッグ＆ドロップでもコピーペースト可能です。）<br>
       ![SquidvidPRO_setup_3](../images/16_SquidvidPRO_setup_3.gif)
 
    1. Fill out **Platform** and **Campaign** from **Deployment**
