@@ -21,7 +21,7 @@
 `Label Scheme` | アノテーションに適用される選択可能な`Labels`. 複数の`Label Schemes`がある.
 `Label` | `Annotations`に割り当てることができる`Label Scheme`からは独立的な概念
 `Annotation` | `Label`を`Media Object`上の観測にリンクさせること.　(例えば、一つの画像キャプチャーフレームの`Point`における`Label`)
-`Point` | an annotatable object on a media frame, captures x,y,t and can have multiple Annotations associated with it. A point can also be associated with a bounding box, polygon, pixel map, etc... Each `Point` can have one or more `Annotations`
-`Tag` | an additional modifier that can be applied to an `Annotation`. Each `Annotation` can have multiple `Tags`.
-`Comment` | a freeform entry that can be associated with an `Annotation`. 
+`Point` | メディアフレーム上の一つのアノテーション可能なオブジェクト,x,y,tをキャプチャし、複数のアノテーションを関連付けることができる.　ポイントは、バウンディングボックス、ポリゴン、ピクセルマップなどと関連付けることもできる. 各 `Point` は、1つまたは複数の `Annotation` を持つことができる.
+`Tag` | `Annotation`に適応できる追加的な修飾項目. それぞれの`Annotation`には複数の`Tags`が付与できる.
+`Comment` | アノテーションに関連付けることができる自由記入項目. 
 
