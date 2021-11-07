@@ -12,7 +12,7 @@
 
 ## データセットに関する用語
 用語 | 解説 
----- | ----
+--- | ---
 `Media Object` | a discreet visual data object from a `Deployment`, like and image, video, mosaic. `Media Objects` require Interpreter plugins to be viewable and annotatable using the online tools. 
 `Campaign` | a group of `Deployments`. Eg: a specific expedition, cruise or data collection initiative 
 `Deployment` | a dataset containing a group of `Media Objects` collected from an operation of the `Platform`, eg: a survey, transect or mission 
