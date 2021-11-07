@@ -76,7 +76,7 @@
       SquidvidPROの**▶**マークを押すとビデオが再生されます。 
       ![SquidvidPRO_setup_5](../images/18_SquidvidPRO_setup_4.gif)
    
-   1. **Media collection** and **Annotation set**<br>
-   Select the **Media collection** and **Annotation set** on Frameplay GUI.
-   Now you are ready for Annotation!!
+   1. **Media collection**と**Annotation set**<br>
+   Frameplay GUIで、**Media collection** と **Annotation set** を選択しましょう。
+   アノテーションのための準備は全て完了です!!
    ![Frameplay_setup_1](../images/19_Frameplay_setup_1.png)
