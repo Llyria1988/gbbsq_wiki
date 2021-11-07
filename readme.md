@@ -2,8 +2,8 @@
 #これは、米国の研究船*HEALY*の1601航海でROV/*Global Explorer*によって取得されたデータセットをアノテーションするための技術的なサポートを提供するレポジトリです。<br>
 
 
-**Step1．[アノテーションのためのソフトウェア環境セットアップ](../annotation/setup_annotation_software_environment_jp.md)を始めましょう。**<br>
-**Step1．[Set up the software environment for the Arctic dataset annotation](../annotation/setup_annotation_software_environment_en.md)**
+**Step1．[アノテーションのためのソフトウェア環境セットアップ](../annotation/setup_annotation_software_environment_jp.md)**<br>
+**Step1．[Set up the physical environment for the Arctic dataset annotation](../setup/setup_physical_nvironment_en.md)**
 
-**Step2．[アノテーションのためのソフトウェア環境セットアップ](../annotation/setup_annotation_software_environment_jp.md)を始めましょう。**<br>
+**Step2．[アノテーションのためのソフトウェア環境セットアップ](../annotation/setup_annotation_software_environment_jp.md)**<br>
 **Step2．[Set up the software environment for the Arctic dataset annotation](../annotation/setup_annotation_software_environment_en.md)**
