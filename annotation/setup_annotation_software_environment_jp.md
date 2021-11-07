@@ -14,39 +14,39 @@
    1. Squidle+ アイコンをクリックしアプリを起動します。
    ![Squidle+](../images/4_SquidleApp_1.png)
 
-   1. **Log in >>** をクリックしてください
+   1. **Log in >>** をクリックしてください  
    ![Log in](../images/5_SquidleApp_2.png)
 
    1.  あなたの **username** でログインします
    あなたの username はすでにじゅんびされてます。
    GODACの担当者に問い合わせるか、アノテーションチームの中で誰がどのusernameを使用するかを決めてください。  
-   ***それぞれのアノテーターは個別のユーザーネームを使用してください。***  
+   ***それぞれのアノテーターは個別のユーザーネームを使用してください。***
    ***例)***
    `Email or usename: GodacOne`
-   `Password: godac`
+   `Password: godac`  
    ![User account](../images/6_Login_1.png)
 
-   1. Open **Frameplay GUI**
-   Now you are logging in. Open **Frameplay GUI** next
+   1. **Frameplay GUI** を開く
+   現在あなたはログインしています。次に **Frameplay GUI** を開きましょう。  
    ![FrameplayGUI1](../images/7_FrameplayGUI_1.png)
-   You can see the window below and now you are ready for the next step
+   下のようなウィンドウが見えていたら次へのステップへ進みます。  
    ![FrameplayGUI2](../images/8_FrameplayGUI_2.png)
    
 #### 2. Open SquidvidPRO
-   1. Shrink the window size of the **Frameplay GUI** as below
+   1. Shrink the window size of the **Frameplay GUI** as below  
    ![FrameplayGUI3](../images/9_FrameplayGUI_3.png)
 
-   1. Open **SquidvidPRO**
+   1. Open **SquidvidPRO**  
    ![SquidvidPRO](../images/10_SquidvidPROApp_1.png)
-   Then a line **SquidvidPRO** & **Frameplay GUI** windows as below
+   Then a line **SquidvidPRO** & **Frameplay GUI** windows as below  
    ![SquidvidPRO and Frameplay GUI](../images/11_SquidvidPROApp_and_FrameplayGUI_1.png)
 
 #### 3. Getting API TOKEN and SquidvidPRO SETUP
    1. Get **API TOKEN**
-   Click the **Key** icon just next to your username on **Frameplay GUI**
+   Click the **Key** icon just next to your username on **Frameplay GUI**  
    ![API TOKEN](../images/12_SquidvidPROApp_and_FrameplayGUI_2.png)
 
-   1. Copy **API TOKEN** to **SQ+ API Key:** on SquidvidPRO SETUP
+   1. Copy **API TOKEN** to **SQ+ API Key:** on SquidvidPRO SETUP  
    ![SquidvidPRO API TOKEN](../images/13_SquidvidPROApp_and_FrameplayGUI_3.png)
    
    1. Load log file
