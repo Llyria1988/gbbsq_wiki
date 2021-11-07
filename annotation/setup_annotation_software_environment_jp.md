@@ -23,27 +23,27 @@
    ***それぞれのアノテーターは個別のユーザーネームを使用してください。***
    ***例)***
    `Email or usename: GodacOne`
-   `Password: godac`<br> 
+   `Password: godac` <br>
    ![User account](../images/6_Login_1.png)
 
    1. **Frameplay GUI** を開く
-   現在あなたはログインしています。次に **Frameplay GUI** を開きましょう。<br> 
+   現在あなたはログインしています。次に **Frameplay GUI** を開きましょう。<br>
    ![FrameplayGUI1](../images/7_FrameplayGUI_1.png)
-   下のようなウィンドウが見えていたら次へのステップへ進みます。<br> 
+   下のようなウィンドウが見えていたら次へのステップへ進みます。<br>
    ![FrameplayGUI2](../images/8_FrameplayGUI_2.png)
    
-#### 2. Open SquidvidPRO
-   1. Shrink the window size of the **Frameplay GUI** as below  
+#### 2. SquidvidPRO を開く
+   1. 下のように **Frameplay GUI** のウィンドウを小さくします <br>
    ![FrameplayGUI3](../images/9_FrameplayGUI_3.png)
 
-   1. Open **SquidvidPRO**  
-   ![SquidvidPRO](../images/10_SquidvidPROApp_1.png)
-   Then a line **SquidvidPRO** & **Frameplay GUI** windows as below  
+   1. **SquidvidPRO** を開きます  
+   ![SquidvidPRO](../images/10_SquidvidPROApp_1.png) <br>
+   **SquidvidPRO** と **Frameplay GUI** のウィンドウを以下のように並べます <br>
    ![SquidvidPRO and Frameplay GUI](../images/11_SquidvidPROApp_and_FrameplayGUI_1.png)
 
-#### 3. Getting API TOKEN and SquidvidPRO SETUP
+#### 3. API TOKEN を取得し SquidvidPRO をセットアップする
    1. Get **API TOKEN**
-   Click the **Key** icon just next to your username on **Frameplay GUI**  
+   Click the **Key** icon just next to your username on **Frameplay GUI** <br>
    ![API TOKEN](../images/12_SquidvidPROApp_and_FrameplayGUI_2.png)
 
    1. Copy **API TOKEN** to **SQ+ API Key:** on SquidvidPRO SETUP  
