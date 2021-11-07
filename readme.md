@@ -7,3 +7,5 @@
 
 **Step2．[アノテーションのためのソフトウェア環境セットアップ](../annotation/setup_annotation_software_environment_jp.md)**<br>
 **Step2．[Set up the software environment for the Arctic dataset annotation](../annotation/setup_annotation_software_environment_en.md)**
+
+**．[北極データセットアノテーションのための物理環境セットアップ](../setup/setup_physical_environment_jp.md)**<br>
