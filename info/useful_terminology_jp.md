@@ -12,10 +12,10 @@
 
 ## データセットに関する用語
 用語 | 解説 
---- | ---
-`Media Object` | a discreet visual data object from a `Deployment`, like and image, video, mosaic. `Media Objects` require Interpreter plugins to be viewable and annotatable using the online tools. 
-`Campaign` | a group of `Deployments`. Eg: a specific expedition, cruise or data collection initiative 
-`Deployment` | a dataset containing a group of `Media Objects` collected from an operation of the `Platform`, eg: a survey, transect or mission 
+---- | ----
+`Media Object` | 一つの`Deployment`から得られるイメージ、ビデオ、モザイクのような、独立したビジュアルデータオブジェクトです。`Media Objects` は、オンラインツールを使って表示したり注釈を付けたりするために、仲介のプラグインを必要とする
+`Campaign` | 複数の`Deployments`によって構成される一つのグループ Eg: 一つの調査遠征、研究航海、データ収集の取り組み 
+`Deployment` | `Platform`の一回のオペレーションで得られた`Media Objects`のクループを包括する一つのデータセット 例: 一回の調査, ドランゼクト　または ミッション
 `Media Collection` | a user-defined collection of `Media Objects` grouped for further analysis. Can be a subset of `Media Objects` from one or more `Deployments`
 `Annotation Set` | the definition of how to annotate the `Media Collection`. I.e. the annotation method, parameters and `Label Scheme` to be used. A `Media Collection` can have more than one associated `Annotation Set`
 `Label Scheme` | the chosen list of possible `Labels` for which to apply to `Annotations`. There are multiple `Label Schemes`.
