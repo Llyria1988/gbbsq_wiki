@@ -1,16 +1,16 @@
 # Squidle+の用語解説
 
-## Terms for Datasources
+## データソースに関する用語
 Term | Description 
 --- | --- 
-`Platform` | The equipment/method used to collect the imagery data (eg: a specific AUV, ROV or camera platform) 
-`Data Provider` | The organisation, institution or operator in charge of managing the data collected by the `Platform` 
-`Datasource Repository` | An accessible, non-ephemeral, (usually online) archive for uploading raw underlying imagery and survey data collected by a `Data Provider`  
-`Datasource Plugin` | A software module that facilitates reading from a `Datasource Repository`
-`Datasource Definition`  | The parameters that define the structure and format of the data on the `Datasource Repository` and which `Datasource Plugin` to use. Each `Platform` must have at least one `Datasource Definition`.
+`Platform` | 画像取得に用いられた機器や手法 (例: 特定に AUV, ROV または 撮影機器) 
+`Data Provider` | `Platform`で取得されたデータに対する管理責任者となる組織,研究所またはオペレーター
+`Datasource Repository` | `Data Provider` が収集した生の画像や調査データをアップロードするための、アクセス可能な非一時的な（通常はオンラインの）アーカイブ  
+`Datasource Plugin` | `Datasource Repository`からの読み込みを容易にするソフトウェアモジュール
+`Datasource Definition`  | `Datasource Repository`上のデータの構造とフォーマットおよびどの`Datasource Plugin`をしようするかを定義するパラメータで、各 `Platform` は少なくとも1つの `Datasource Definition` を持つ必要がある
 
 
-## Terms for Datasets
+## データセットに関する用語
 Term | Description 
 ---- | ----
 `Media Object` | a discreet visual data object from a `Deployment`, like and image, video, mosaic. `Media Objects` require Interpreter plugins to be viewable and annotatable using the online tools. 
