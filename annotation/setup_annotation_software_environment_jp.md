@@ -64,9 +64,9 @@
       1. **Camera code:** は、ファイル名の `camera_type-camera_angle-camera_resolution` (例： 4K-pantilt-4K30p) の項目を引用します。 これらを **Camera code:**　にコピーペーストして下さい。（選択項目のドラッグ＆ドロップでもコピーペースト可能です。）<br>
       ![SquidvidPRO_setup_3](../images/16_SquidvidPRO_setup_3.gif)
 
-   1. Fill out **Platform** and **Campaign** from **Deployment**
-      You can usually pick them by the pull-down menu.
-      1. The **Platform** is always ought to be set as **GlobalExplorer** in this Arctic annotation task. 
+   1. **Platform** と **Campaign** を **Deployment**　から取得
+      これらは通常事前に登録されたプルダウンメニューで設定できます。
+      1. **Platform** is always ought to be set as **GlobalExplorer** in this Arctic annotation task. 
       2. **Campaign** is also always ought to be set as **HLY1601**. 
       3. Only **Deployment** will be changed depending on which movie file you picked. Check the head of the file name.
       ![SquidvidPRO_setup_4](../images/17_SquidvidPRO_setup_4.png)  
