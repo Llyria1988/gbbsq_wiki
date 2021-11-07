@@ -2,7 +2,7 @@
 
 ### Squidle+について
 **Squidle+** を利用することで、**生物学的な画像記録データに対し様々なワークフローやモードでアノテーションすることが可能になります。** <br>
-例）フレーム全体、ポイント、ポリゴン、バウンディングボックス、アノテーションごとにタグ付けやコメントなどを複数ラベル付与すること
+例）フレーム全体、ポイント、ポリゴン、バウンディングボックス、アノテーションごとにタグ付けやコメントなどを複数ラベル付与するこ
 
 ### Squidle+ と SquidvidPRO
 北極データセットのアノーテーションには **Squidle+** と **SquidvidPRO** の両方を使用します。**Squidle+** は、画像へのアノテーションやタグ付けに特化したソフトウェアです。 **SquidvidPRO** はビデオキャプター機能を持ったビデオプレーヤーで、キャプチャー画像を **Squidle+** に送る機能なども備えています。
@@ -52,16 +52,16 @@
    
    1. ログファイルのロード
    ハードディスクから **Logfile path:** へログファイルをろロードします。
-   In this case the file name is **HLY1601_full_NO_altitude.gbb.csv**
+   今回のアノテーションでは、ログファイル名はすべて **HLY1601_full_NO_altitude.gbb.csv**　になります。 <br>
    ![SquidvidPRO_setup_1](../images/14_SquidvidPRO_setup_1.gif)
    
-   1. Load video file 
-   ハードディスクから **Video path:** へビデオファイルをロードします。
+   1. ビデオファイルをロードする
+   ハードディスクから **Video path:** へビデオファイルをロードします。　<br>
    ![SquidvidPRO_setup_2](../images/15_SquidvidPRO_setup_2.PNG)
 
-   1. Fill out **Video start time:** and **Camera code:** from **Video path:**
-      1. For the **Video start time:**, refer to the characters just before `.mov`. You can find numbers and characters as **`2016xxxTxxxxxx.xxxxZ`**. Copy the numbers **just before Z** and paste them to **Video start time:**.
-      2. For the **Camera code:**, refer to the `camera_type-camera_angle-camera_resolution` in the video file name (e.g. 4K-pantilt-4K30p). Copy the characters to **Camera code:**.
+   1. **Video start time:** と **Camera code:** を **Video path:** から取得
+      1. **Video start time:** は、ファイル名の末尾にある`.mov`の直前の項目を引用します。 それらは **`2016xxxTxxxxxx.xxxxZ`** のよう記述されています。**Zの直前までの** の文字列を **Video start time:** の項目にコピーペーストして下さい。
+      1. For the **Camera code:**, refer to the `camera_type-camera_angle-camera_resolution` in the video file name (e.g. 4K-pantilt-4K30p). Copy the characters to **Camera code:**.
       ![SquidvidPRO_setup_3](../images/16_SquidvidPRO_setup_3.gif)
 
    1. Fill out **Platform** and **Campaign** from **Deployment**
