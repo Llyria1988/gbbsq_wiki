@@ -50,33 +50,33 @@
    1. **API TOKEN** をSquidvidPRO SETUP の **SQ+ API Key:** にコピーします。（選択項目のドラッグ＆ドロップでもコピーペースト可能です。）<br>
    ![SquidvidPRO API TOKEN](../images/13_SquidvidPROApp_and_FrameplayGUI_3.png)
    
-   1. ログファイルのロード
+   1. ログファイルのロード<br>
    ハードディスクから **Logfile path:** へログファイルをろロードします。
    今回のアノテーションでは、ログファイル名はすべて **HLY1601_full_NO_altitude.gbb.csv**　になります。<br>
    ![SquidvidPRO_setup_1](../images/14_SquidvidPRO_setup_1.gif)
    
-   1. ビデオファイルをロードする
+   1. ビデオファイルをロードする<br>
    ハードディスクから **Video path:** へビデオファイルをロードします。<br>
    ![SquidvidPRO_setup_2](../images/15_SquidvidPRO_setup_2.png)
 
-   1. **Video start time:** と **Camera code:** を **Video path:** から取得
+   1. **Video start time:** と **Camera code:** を **Video path:** から取得<br>
       1. **Video start time:** は、ファイル名の末尾にある`.mov`の直前の項目を引用します。 それらは **`2016xxxTxxxxxx.xxxxZ`** のように記述されています。**Zの直前までの** の文字列を **Video start time:** の項目にコピーペーストして下さい。（選択項目のドラッグ＆ドロップでもコピーペースト可能です。）
       1. **Camera code:** は、ファイル名の `camera_type-camera_angle-camera_resolution` (例： 4K-pantilt-4K30p) の項目を引用します。 これらを **Camera code:**　にコピーペーストして下さい。（選択項目のドラッグ＆ドロップでもコピーペースト可能です。）<br>
       ![SquidvidPRO_setup_3](../images/16_SquidvidPRO_setup_3.gif)
 
-   1. **Platform** と **Campaign** を **Deployment**　から取得
+   1. **Platform** と **Campaign** を **Deployment**　から取得<br>
       これらは通常事前に登録されたプルダウンメニューで設定できます。
       1. **Platform** is always ought to be set as **GlobalExplorer** in this Arctic annotation task. 
       2. **Campaign** is also always ought to be set as **HLY1601**. 
       3. Only **Deployment** will be changed depending on which movie file you picked. Check the head of the file name.
       ![SquidvidPRO_setup_4](../images/17_SquidvidPRO_setup_4.png)  
 
-   1. Now you are all set on SquidvidPRO and press **OK**
+   1. Now you are all set on SquidvidPRO and press **OK**<br>
       Once you press **OK**, the **Deployment** will be loaded.
       Then you click **â–¶ï¸Ž** mark of SquidvidPRO the video will be played. 
       ![SquidvidPRO_setup_5](../images/18_SquidvidPRO_setup_4.gif)
    
-   1. **Media collection** and **Annotation set**
+   1. **Media collection** and **Annotation set**<br>
    Select the **Media collection** and **Annotation set** on Frameplay GUI.
    Now you are ready for Annotation!!
    ![Frameplay_setup_1](../images/19_Frameplay_setup_1.png)
