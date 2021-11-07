@@ -77,6 +77,6 @@
       ![SquidvidPRO_setup_5](../images/18_SquidvidPRO_setup_4.gif)
    
    1. **Media collection**と**Annotation set**<br>
-   Frameplay GUIで、**Media collection** と **Annotation set** を選択しましょう。
+   Frameplay GUIで、**Media collection** と **Annotation set** を選択しましょう。<br>
    アノテーションのための準備は全て完了です!!
    ![Frameplay_setup_1](../images/19_Frameplay_setup_1.png)
