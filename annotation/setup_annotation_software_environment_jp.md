@@ -34,29 +34,29 @@
    ![FrameplayGUI2](../images/8_FrameplayGUI_2.png)
    
 #### 2. SquidvidPRO を開く
-   1. 下のように **Frameplay GUI** のウィンドウを小さくします <br>
+   1. 下のように **Frameplay GUI** のウィンドウを小さくします<br>
    ![FrameplayGUI3](../images/9_FrameplayGUI_3.png)
 
-   1. **SquidvidPRO** を開きます  
-   ![SquidvidPRO](../images/10_SquidvidPROApp_1.png) <br>
-   **SquidvidPRO** と **Frameplay GUI** のウィンドウを以下のように並べます <br>
+   1. **SquidvidPRO** を開きます<br>
+   ![SquidvidPRO](../images/10_SquidvidPROApp_1.png)
+   **SquidvidPRO** と **Frameplay GUI** のウィンドウを以下のように並べます<br>
    ![SquidvidPRO and Frameplay GUI](../images/11_SquidvidPROApp_and_FrameplayGUI_1.png)
 
 #### 3. API TOKEN を取得し SquidvidPRO をセットアップする
    1. **API TOKEN**を取得
-   **Frameplay GUI** のウィンドウの、ユーザー名のすぐ隣にある**Key** アイコンをクリックします。  <br>
+   **Frameplay GUI** のウィンドウの、ユーザー名のすぐ隣にある**Key** アイコンをクリックします。<br>
    ![API TOKEN](../images/12_SquidvidPROApp_and_FrameplayGUI_2.png)
 
-   1. **API TOKEN** をSquidvidPRO SETUP の **SQ+ API Key:** にコピーします。　<br>  
+   1. **API TOKEN** をSquidvidPRO SETUP の **SQ+ API Key:** にコピーします。<br>  
    ![SquidvidPRO API TOKEN](../images/13_SquidvidPROApp_and_FrameplayGUI_3.png)
    
    1. ログファイルのロード
    ハードディスクから **Logfile path:** へログファイルをろロードします。
-   今回のアノテーションでは、ログファイル名はすべて **HLY1601_full_NO_altitude.gbb.csv**　になります。 <br>
+   今回のアノテーションでは、ログファイル名はすべて **HLY1601_full_NO_altitude.gbb.csv**　になります。<br>
    ![SquidvidPRO_setup_1](../images/14_SquidvidPRO_setup_1.gif)
    
    1. ビデオファイルをロードする
-   ハードディスクから **Video path:** へビデオファイルをロードします。　<br>
+   ハードディスクから **Video path:** へビデオファイルをロードします。<br>
    ![SquidvidPRO_setup_2](../images/15_SquidvidPRO_setup_2.PNG)
 
    1. **Video start time:** と **Camera code:** を **Video path:** から取得
