@@ -6,22 +6,22 @@
 ### Squidle+ と SquidvidPRO
 北極データセットのアノーテーションには **Squidle+** と **SquidvidPRO** の両方を使用します。**Squidle+** は、画像へのアノテーションやタグ付けに特化したソフトウェアです。 **SquidvidPRO** はビデオキャプター機能を持ったビデオプレーヤーで、キャプチャー画像を **Squidle+** に送る機能なども備えています。
 
-### Set up Annotation
+### アノーテーション環境をセットアップする
 
-Let's start setting up your annotation environment!
+アノテーション環境のセットアップを始めましょう!
 
-#### 1. Logging into Squidle+: 
-   1. Click the Squidle+ icon and open the app
+#### 1. Squidle+にログインする: 
+   1. Squidle+ アイコンをクリックしアプリを起動します。
    ![Squidle+](../images/4_SquidleApp_1.png)
 
-   1. Click **Log in >>**
+   1. **Log in >>** をクリックしてください
    ![Log in](../images/5_SquidleApp_2.png)
 
-   1. Log in in with your **username**
-   Your username is already prepared in advance.
-   Ask it from the representatives in GODAC or decide which username you should use in the annotation group.
-   ***Each annotator has to have their own username.**
-   **Example)**
+   1.  あなたの **username** でログインします
+   あなたの username はすでにじゅんびされてます。
+   GODACの担当者に問い合わせるか、アノテーションチームの中で誰がどのusernameを使用するかを決めてください。
+   ***それぞれのアノテーターは個別のユーザーネームを使用してください。***
+   ***例)***
    `Email or usename: GodacOne`
    `Password: godac`
    ![User account](../images/6_Login_1.png)
