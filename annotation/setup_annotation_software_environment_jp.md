@@ -15,10 +15,10 @@
    1. Squidle+ アイコンをクリックしアプリを起動します。<br>  
    ![Squidle+](../images/4_SquidleApp_1.png)
 
-   1. **Log in >>** をクリックしてください<br>  
+   1. **Log in >>** をクリックしてください<br>
    ![Log in](../images/5_SquidleApp_2.png)
 
-   1. **username** でログインする
+   1. **username** でログインする<br>
    あなたの username はすでに準備されてます。
    GODACの担当者に問い合わせるか、アノテーションチームの中で誰がどのusernameを使用するかを決めてください。  
    ***それぞれのアノテーターは個別のユーザーネームを使用してください。***
