@@ -37,13 +37,13 @@
    1. 下のように **Frameplay GUI** のウィンドウを小さくします<br>
    ![FrameplayGUI3](../images/9_FrameplayGUI_3.png)
 
-   1. **SquidvidPRO** を開きます<br>
+   1. **SquidvidPRO** を開きます
    ![SquidvidPRO](../images/10_SquidvidPROApp_1.png)
    **SquidvidPRO** と **Frameplay GUI** のウィンドウを以下のように並べます<br>
    ![SquidvidPRO and Frameplay GUI](../images/11_SquidvidPROApp_and_FrameplayGUI_1.png)
 
 #### 3. API TOKEN を取得し SquidvidPRO をセットアップする
-   1. **API TOKEN**を取得<br>
+   1. **API TOKEN**を取得
    **Frameplay GUI** のウィンドウの、ユーザー名のすぐ隣にある**Key** アイコンをクリックします。<br>
    ![API TOKEN](../images/12_SquidvidPROApp_and_FrameplayGUI_2.png)
 
