@@ -22,7 +22,7 @@ JAMSTECにおける本データセットアノテーションの責任者 : **�
   ![Powe botton](../images/2_power_botton.png)
 
 1. **ホームスクリーンの確認**: 
-  しばらくして、以下のようなスクリーン画面が確認できたら、起動成功です。
+  しばらくして、以下のようなスクリーン画面が確認できたら、起動成功です。<br>
   [アノテーションのためのソフトウェア環境セットアップ](../annotation/setup_annotation_software_environment_jp.md)を始めましょう。
   ![Home screen](../images/3_home_screen.png)
 
