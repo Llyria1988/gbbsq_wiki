@@ -17,11 +17,11 @@ The devices and items that all you need are as the image below.
 
 Now you are using **GreyBitsBOX version 5 (GBB5)** which is depicted as the legend number ①. All the other devices and items ② to ⑥ need to be physically connected to ①.
 
-1. **Boot GBB5**: 
+1. **Boot GBB5**:
   If you connected everything to GBB5, now you are all set to turn on GBB5. **Push the power botton until you hear a beep sound.**
   ![Powe botton](../images/2_power_botton.png)
 
-1. **Home screen**: 
+1. **Home screen**:
    If you are seeing the home screen of GBB5 as below, you successfully booted the system.
    So, let's move on to [Set up the software environment for the Arctic dataset annotation](../annotation/setup_annotation_software_environment_en.md)を始めましょう。
   ![Home screen](../images/3_home_screen.png)
