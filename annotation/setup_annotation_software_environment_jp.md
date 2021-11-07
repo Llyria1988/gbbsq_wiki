@@ -47,7 +47,7 @@
    **Frameplay GUI** のウィンドウの、ユーザー名のすぐ隣にある**Key** アイコンをクリックします。<br>
    ![API TOKEN](../images/12_SquidvidPROApp_and_FrameplayGUI_2.png)
 
-   1. **API TOKEN** をSquidvidPRO SETUP の **SQ+ API Key:** にコピーします。<br>  
+   1. **API TOKEN** をSquidvidPRO SETUP の **SQ+ API Key:** にコピーします。（選択項目のドラッグ＆ドロップでもコピーペースト可能です。）<br>  
    ![SquidvidPRO API TOKEN](../images/13_SquidvidPROApp_and_FrameplayGUI_3.png)
    
    1. ログファイルのロード
@@ -60,8 +60,8 @@
    ![SquidvidPRO_setup_2](../images/15_SquidvidPRO_setup_2.PNG)
 
    1. **Video start time:** と **Camera code:** を **Video path:** から取得
-      1. **Video start time:** は、ファイル名の末尾にある`.mov`の直前の項目を引用します。 それらは **`2016xxxTxxxxxx.xxxxZ`** のよう記述されています。**Zの直前までの** の文字列を **Video start time:** の項目にコピーペーストして下さい。
-      1. For the **Camera code:**, refer to the `camera_type-camera_angle-camera_resolution` in the video file name (e.g. 4K-pantilt-4K30p). Copy the characters to **Camera code:**.
+      1. **Video start time:** は、ファイル名の末尾にある`.mov`の直前の項目を引用します。 それらは **`2016xxxTxxxxxx.xxxxZ`** のよう記述されています。**Zの直前までの** の文字列を **Video start time:** の項目にコピーペーストして下さい。（選択項目のドラッグ＆ドロップでもコピーペースト可能です。）
+      1. **Camera code:** は、ファイル名の `camera_type-camera_angle-camera_resolution` (例： 4K-pantilt-4K30p) の項目を引用します。 これらを **Camera code:**　にコピーペーストして下さい。（選択項目のドラッグ＆ドロップでもコピーペースト可能です。）
       ![SquidvidPRO_setup_3](../images/16_SquidvidPRO_setup_3.gif)
 
    1. Fill out **Platform** and **Campaign** from **Deployment**
