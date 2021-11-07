@@ -46,16 +46,16 @@
    **Frameplay GUI** のウィンドウの、ユーザー名のすぐ隣にある**Key** アイコンをクリックします。  <br>
    ![API TOKEN](../images/12_SquidvidPROApp_and_FrameplayGUI_2.png)
 
-   1. **API TOKEN** をSquidvidPRO SETUP の **SQ+ API Key:** にコピーします。    
+   1. **API TOKEN** をSquidvidPRO SETUP の **SQ+ API Key:** にコピーします。　<br>  
    ![SquidvidPRO API TOKEN](../images/13_SquidvidPROApp_and_FrameplayGUI_3.png)
    
-   1. Load log file
-   Loading Arctic ROV dive logfile from your HDD into **Logfile path:**
+   1. ログファイルのロード
+   ハードディスクから **Logfile path:** へログファイルをろロードします。
    In this case the file name is **HLY1601_full_NO_altitude.gbb.csv**
    ![SquidvidPRO_setup_1](../images/14_SquidvidPRO_setup_1.gif)
    
    1. Load video file 
-   Loading a video file from your HDD into **Video path:**
+   ハードディスクから **Video path:** へビデオファイルをロードします。
    ![SquidvidPRO_setup_2](../images/15_SquidvidPRO_setup_2.PNG)
 
    1. Fill out **Video start time:** and **Camera code:** from **Video path:**
