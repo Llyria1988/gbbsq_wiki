@@ -51,7 +51,7 @@
    ![SquidvidPRO API TOKEN](../images/13_SquidvidPROApp_and_FrameplayGUI_3.png)
    
    1. ログファイルのロード<br>
-   ハードディスクから **Logfile path:** へログファイルをろロードします。
+   ハードディスクから **Logfile path:** へログファイルをロードします。
    今回のアノテーションでは、ログファイル名はすべて **HLY1601_full_NO_altitude.gbb.csv**　になります。<br>
    ![SquidvidPRO_setup_1](../images/14_SquidvidPRO_setup_1.gif)
    
@@ -64,16 +64,16 @@
       1. **Camera code:** は、ファイル名の `camera_type-camera_angle-camera_resolution` (例： 4K-pantilt-4K30p) の項目を引用します。 これらを **Camera code:**　にコピーペーストして下さい。（選択項目のドラッグ＆ドロップでもコピーペースト可能です。）<br>
       ![SquidvidPRO_setup_3](../images/16_SquidvidPRO_setup_3.gif)
 
-   1. **Platform** と **Campaign** を **Deployment**　から取得<br>
+   1. **Platform**と**Campaign**を**Deployment**　から取得<br>
       これらは通常事前に登録されたプルダウンメニューで設定できます。
-      1. **Platform** is always ought to be set as **GlobalExplorer** in this Arctic annotation task. 
-      2. **Campaign** is also always ought to be set as **HLY1601**. 
-      3. Only **Deployment** will be changed depending on which movie file you picked. Check the head of the file name.
+      1. 今回の北極データのアノテーションでは**Platform**は常に**GlobalExplorer**と設定して下さい。 
+      2. **Campaign**は**HLY1601**と設定します。 
+      3. **Deployment**は、ロードするビデオファイルによって変更します。ファイル名の先頭部分を確認して下さい。
       ![SquidvidPRO_setup_4](../images/17_SquidvidPRO_setup_4.png)  
 
-   1. Now you are all set on SquidvidPRO and press **OK**<br>
-      Once you press **OK**, the **Deployment** will be loaded.
-      Then you click **â–¶ï¸Ž** mark of SquidvidPRO the video will be played. 
+   1. SquidvidPROの準備は完了です。**OK**を押して下さい。<br>
+      **OK**を押すことによって,**Deployment**がロードされます。
+      SquidvidPROの**▶**マークを押すとビデオが再生されます。 
       ![SquidvidPRO_setup_5](../images/18_SquidvidPRO_setup_4.gif)
    
    1. **Media collection** and **Annotation set**<br>
