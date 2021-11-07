@@ -24,7 +24,7 @@
    ***それぞれのアノテーターは個別のユーザーネームを使用してください。***
    ***例)***
    `Email or usename: GodacOne`
-   `Password: godac` <br>
+   `Password: godac`<br>
    ![User account](../images/6_Login_1.png)
 
    1. **Frameplay GUI** を開く
