@@ -3,24 +3,31 @@
     "name": "Annotation",
     "documents": [
       {
-        "name": "2 setup annotation soft env en",
-        "section": "Annotation",
-        "document": "annotation/2_setup_annotation_soft_env_en",
-        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/2_setup_annotation_soft_env_en.md",
-        "location": "/wiki/annotation"
-      },
-      {
-        "name": "Annotate media",
+        "name": "Annotate media en",
         "section": "Annotation",
         "document": "annotation/annotate_media_en",
         "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/annotate_media_en.md",
         "location": "/wiki/annotation"
       },
       {
-        "name": "Annotate media JP",
+        "name": "Annotate media jp",
         "section": "Annotation",
         "document": "annotation/annotate_media_jp",
         "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/annotate_media_jp.md",
+        "location": "/wiki/annotation"
+      },
+      {
+        "name": "Setup annotation software environment en",
+        "section": "Annotation",
+        "document": "annotation/setup_annotation_software_environment_en",
+        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/setup_annotation_software_environment_en.md",
+        "location": "/wiki/annotation"
+      },
+      {
+        "name": "Setup annotation software environment jp",
+        "section": "Annotation",
+        "document": "annotation/setup_annotation_software_environment_jp",
+        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/setup_annotation_software_environment_jp.md",
         "location": "/wiki/annotation"
       }
     ]
