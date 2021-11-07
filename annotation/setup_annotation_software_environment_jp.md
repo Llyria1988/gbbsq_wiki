@@ -17,8 +17,8 @@
    1. **Log in >>** をクリックしてください <br>  
    ![Log in](../images/5_SquidleApp_2.png)
 
-   1.  あなたの **username** でログインします <br>
-   あなたの username はすでにじゅんびされてます。
+   1. **username** でログインする <br>
+   あなたの username はすでに準備されてます。
    GODACの担当者に問い合わせるか、アノテーションチームの中で誰がどのusernameを使用するかを決めてください。  
    ***それぞれのアノテーターは個別のユーザーネームを使用してください。***
    ***例)***
@@ -42,11 +42,11 @@
    ![SquidvidPRO and Frameplay GUI](../images/11_SquidvidPROApp_and_FrameplayGUI_1.png)
 
 #### 3. API TOKEN を取得し SquidvidPRO をセットアップする
-   1. Get **API TOKEN**
-   Click the **Key** icon just next to your username on **Frameplay GUI** <br>
+   1. **API TOKEN**を取得
+   **Frameplay GUI** のウィンドウの、ユーザー名のすぐ隣にある**Key** アイコンをクリックします。  <br>
    ![API TOKEN](../images/12_SquidvidPROApp_and_FrameplayGUI_2.png)
 
-   1. Copy **API TOKEN** to **SQ+ API Key:** on SquidvidPRO SETUP  
+   1. **API TOKEN** をSquidvidPRO SETUP の **SQ+ API Key:** にコピーします。    
    ![SquidvidPRO API TOKEN](../images/13_SquidvidPROApp_and_FrameplayGUI_3.png)
    
    1. Load log file
