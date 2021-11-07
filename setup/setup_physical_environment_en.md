@@ -23,6 +23,7 @@ Now you are using **GreyBitsBOX version 5 (GBB5)** which is depicted as the lege
 
 1. **Home screen**: 
    If you are seeing the home screen of GBB5 as below, you successfully booted the system.
+   So, let's move on to [アノテーションのためのソフトウェア環境セットアップ](../annotation/setup_annotation_software_environment_en.md)を始めましょう。
   ![Home screen](../images/3_home_screen.png)
 
 
