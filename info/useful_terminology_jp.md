@@ -1,7 +1,7 @@
 # Squidle+の用語解説
 
 ## データソースに関する用語
-Term | Description 
+用語 | 解説 
 --- | --- 
 `Platform` | 画像取得に用いられた機器や手法 (例: 特定に AUV, ROV または 撮影機器) 
 `Data Provider` | `Platform`で取得されたデータに対する管理責任者となる組織,研究所またはオペレーター
@@ -11,7 +11,7 @@ Term | Description
 
 
 ## データセットに関する用語
-Term | Description 
+用語 | 解説 
 ---- | ----
 `Media Object` | a discreet visual data object from a `Deployment`, like and image, video, mosaic. `Media Objects` require Interpreter plugins to be viewable and annotatable using the online tools. 
 `Campaign` | a group of `Deployments`. Eg: a specific expedition, cruise or data collection initiative 
