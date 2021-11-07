@@ -43,7 +43,7 @@
    ![SquidvidPRO and Frameplay GUI](../images/11_SquidvidPROApp_and_FrameplayGUI_1.png)
 
 #### 3. API TOKEN を取得し SquidvidPRO をセットアップする
-   1. **API TOKEN**を取得
+   1. **API TOKEN**を取得<br>
    **Frameplay GUI** のウィンドウの、ユーザー名のすぐ隣にある**Key** アイコンをクリックします。<br>
    ![API TOKEN](../images/12_SquidvidPROApp_and_FrameplayGUI_2.png)
 
