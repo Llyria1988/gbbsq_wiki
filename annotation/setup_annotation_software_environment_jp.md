@@ -14,7 +14,7 @@
    1. Squidle+ アイコンをクリックしアプリを起動します。<br>  
    ![Squidle+](../images/4_SquidleApp_1.png)
 
-   1. **Log in >>** をクリックしてください  
+   1. **Log in >>** をクリックしてください <br>  
    ![Log in](../images/5_SquidleApp_2.png)
 
    1.  あなたの **username** でログインします
@@ -23,13 +23,13 @@
    ***それぞれのアノテーターは個別のユーザーネームを使用してください。***
    ***例)***
    `Email or usename: GodacOne`
-   `Password: godac`  
+   `Password: godac`<br> 
    ![User account](../images/6_Login_1.png)
 
    1. **Frameplay GUI** を開く
-   現在あなたはログインしています。次に **Frameplay GUI** を開きましょう。  
+   現在あなたはログインしています。次に **Frameplay GUI** を開きましょう。<br> 
    ![FrameplayGUI1](../images/7_FrameplayGUI_1.png)
-   下のようなウィンドウが見えていたら次へのステップへ進みます。  
+   下のようなウィンドウが見えていたら次へのステップへ進みます。<br> 
    ![FrameplayGUI2](../images/8_FrameplayGUI_2.png)
    
 #### 2. Open SquidvidPRO
