@@ -8,5 +8,7 @@
 **Step2．[アノテーションのためのソフトウェア環境セットアップ](./annotation/setup_annotation_software_environment_jp.md)**<br>
 **Step2．[Set up the software environment for the Arctic dataset annotation](./annotation/setup_annotation_software_environment_en.md)**
 
+**About. [About Squidle+](./info/about.md)**<br>
+
 **HELP1. [Squidle+の用語解説](./info/useful_terminology_jp.md)**<br>
 **HELP1. [Useful terminology](./info/useful_terminology_en.md)**<br>
