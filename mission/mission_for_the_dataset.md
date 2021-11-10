@@ -5,3 +5,10 @@ In this mission, we will make bounding box annotation for the Arctic mid-water b
 The abstract for the mission is depicted as below.<br>
 
 ![mission](../images/mission_for_the_dataset.png)
+
+### Tasks
+
+- Give a tag for the first frame the individual appeared 
+- Giving bounding boxes as much as possible but make sure there is the difference from the frame previously captured 
+- Link all images tagged on the same individual
+- Give a tag for the last frame the individual appears
