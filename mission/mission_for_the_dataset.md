@@ -9,6 +9,6 @@ The abstract for the mission is depicted as below.<br>
 ### Tasks
 
 - Give a tag for the first frame the individual appeared 
-- Giving bounding boxes as much as possible but make sure there is the difference from the frame previously captured 
+- Giving bounding boxes as much as possible for the individual but make sure there is the differences from the frame previously captured 
 - Link all images tagged on the same individual
 - Give a tag for the last frame the individual appears
