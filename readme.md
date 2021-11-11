@@ -10,6 +10,9 @@
 **Step2．[アノテーションのためのソフトウェア環境セットアップ](./annotation/setup_annotation_software_environment_jp.md)**<br>
 **Step2．[Set up the software environment for the Arctic dataset annotation](./annotation/setup_annotation_software_environment_en.md)**
 
+**Taxon list．[北極データセットにおける主な出現生物種](./axon/common_species_jp.md)**<br>
+**Taxon list．[Common species in the Arctic dataset](./axon/common_species_en.md)** 
+
 **About. [About Squidle+](./info/about.md)**<br>
 
 **HELP1. [Squidle+の用語解説](./info/useful_terminology_jp.md)**<br>
