@@ -1,7 +1,7 @@
 # Common species in the Arctic dataset
 Here in 32 common taxa in this dataset are listed up, please refer to this document to identify organisms.
 
-**you can also see more examplaers images [here](http://localhost/geodata/annotation_set/85#qac).** 
+**You can also see more examplaers images [here](http://localhost/geodata/annotation_set/85#qac).** 
 This link works only on GBB5 local environment.
 
 # Ctenophora (Phylum)
