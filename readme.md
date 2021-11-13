@@ -13,8 +13,8 @@
 **Taxon list．[北極データセットにおける主な出現生物種](./taxon/common_species_jp.md)**<br>
 **Taxon list．[Common species in the Arctic dataset](./taxon/common_species_en.md)** 
 
-**About. [About Squidle+](./info/about.md)**<br>
-**About. [More info about annotation function](./info/about.md)**<br>
+**About. [About Squidle+/Squidle+について](./info/about.md)**<br>
+**About. [More info about annotation function/その他のアノテーション機能](./annotation/more_info_about_annotation_function.md)**<br>
 
 
 **HELP1. [Squidle+の用語解説](./info/useful_terminology_jp.md)**<br>
