@@ -14,6 +14,8 @@
 **Taxon list．[Common species in the Arctic dataset](./taxon/common_species_en.md)** 
 
 **About. [About Squidle+](./info/about.md)**<br>
+**About. [More info about annotation function](./info/about.md)**<br>
+
 
 **HELP1. [Squidle+の用語解説](./info/useful_terminology_jp.md)**<br>
 **HELP1. [Useful terminology](./info/useful_terminology_en.md)**<br>
