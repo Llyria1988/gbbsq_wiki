@@ -30,7 +30,7 @@ The abstract for the mission is depicted as below.<br>
     1. Now you can see the point changed as taxon unique colour, and when you move the cursor on it, you can see it labelled as the taxon as you picked.
     1. Double click the point again, now you can see the annotation-editor window.
     1. Click on **TAGS:** and pick **Enter Frame** from the pulldown menu. Then click **SAVE**.
-    ****You can see the image instruction about 5-10 as below***
+    ****You can see the image instruction about v-x as below***
     ![annotate_enter_frame](../images/20_annotate_enter_frame.gif)
     
 ## 2. Making bounding box
