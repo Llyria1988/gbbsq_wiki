@@ -66,7 +66,7 @@ All annotations relating to an individual need to be linked.
 ![link_label](../images/22_link_label.gif)
 
 
-## 4. Capture a last image as "Exit Fram"
+## 4. Capture a last image as "Exit Frame"
 
 1. If you finishing annotation for an individual, you need to do lastly is by giving an "Exit Frame" tag to the last capture image that the individual just before it disappeared.
 2. Most of the procedures same as ["Enter Frame"](#1-capture-a-first-image-as-enter-frame). Just change **Enter Frame** to **Exit Frame**.
