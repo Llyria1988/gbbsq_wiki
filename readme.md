@@ -19,8 +19,8 @@
 **About. [About Squidle+/Squidle+について](./info/about.md)**<br>
 **About. [More info about annotation function/その他のアノテーション機能](./annotation/more_info_about_annotation_function.md)**<br>
 
-**HELP1. 
-**HELP1.
+**HELP1. **<br>
+**HELP1. **<br>
 
 **HELP2. [Squidle+の用語解説](./info/useful_terminology_jp.md)**<br>
 **HELP2. [Useful terminology](./info/useful_terminology_en.md)**<br>
