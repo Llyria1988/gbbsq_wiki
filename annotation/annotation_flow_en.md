@@ -48,6 +48,7 @@ Please give bounding box annotations on individual images as much as possible ex
 1. Click **Polygon** and now you can draw a line
 1. **Click** a point that you want to start your diagonal for your bounding box and then **double click** the point that you want to end the diagonal.
 ![way_making_bbx_2](../images/21_way_making_bbx_2.gif)
+1. If you want to adjust the position, double click the point and choose **Move** as same as ["Method 1"](#method-1-slid-window)
 
 ***tip for making good bounding box using a diagonal**
 
