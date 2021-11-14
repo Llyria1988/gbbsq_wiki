@@ -3,31 +3,38 @@
     "name": "Annotation",
     "documents": [
       {
-        "name": "Annotate media en",
+        "name": "Annotation flow en",
         "section": "Annotation",
-        "document": "annotation/annotate_media_en",
-        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/annotate_media_en.md",
+        "document": "annotation/annotation_flow_en",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/annotation/annotation_flow_en.md",
         "location": "/wiki/annotation"
       },
       {
-        "name": "Annotate media jp",
+        "name": "Annotation flow jp",
         "section": "Annotation",
-        "document": "annotation/annotate_media_jp",
-        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/annotate_media_jp.md",
+        "document": "annotation/annotation_flow_jp",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/annotation/annotation_flow_jp.md",
+        "location": "/wiki/annotation"
+      },
+      {
+        "name": "More info about annotation function",
+        "section": "Annotation",
+        "document": "annotation/more_info_about_annotation_function",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/annotation/more_info_about_annotation_function.md",
         "location": "/wiki/annotation"
       },
       {
         "name": "Setup annotation software environment en",
         "section": "Annotation",
         "document": "annotation/setup_annotation_software_environment_en",
-        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/setup_annotation_software_environment_en.md",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/annotation/setup_annotation_software_environment_en.md",
         "location": "/wiki/annotation"
       },
       {
         "name": "Setup annotation software environment jp",
         "section": "Annotation",
         "document": "annotation/setup_annotation_software_environment_jp",
-        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/annotation/setup_annotation_software_environment_jp.md",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/annotation/setup_annotation_software_environment_jp.md",
         "location": "/wiki/annotation"
       }
     ]
@@ -39,29 +46,74 @@
         "name": "Download media objects",
         "section": "Data export",
         "document": "data_export/download_media_objects",
-        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/data_export/download_media_objects.md",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/data_export/download_media_objects.md",
         "location": "/wiki/data_export"
       },
       {
         "name": "Exporting annotations",
         "section": "Data export",
         "document": "data_export/exporting_annotations",
-        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/data_export/exporting_annotations.md",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/data_export/exporting_annotations.md",
         "location": "/wiki/data_export"
       },
       {
         "name": "Exporting media collections",
         "section": "Data export",
         "document": "data_export/exporting_media_collections",
-        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/data_export/exporting_media_collections.md",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/data_export/exporting_media_collections.md",
         "location": "/wiki/data_export"
       },
       {
         "name": "Extracting annotation summaries",
         "section": "Data export",
         "document": "data_export/extracting_annotation_summaries",
-        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/data_export/extracting_annotation_summaries.md",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/data_export/extracting_annotation_summaries.md",
         "location": "/wiki/data_export"
+      }
+    ]
+  },
+  {
+    "name": "Info",
+    "documents": [
+      {
+        "name": "About",
+        "section": "Info",
+        "document": "info/about",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/info/about.md",
+        "location": "/wiki/info"
+      },
+      {
+        "name": "Useful terminology en",
+        "section": "Info",
+        "document": "info/useful_terminology_en",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/info/useful_terminology_en.md",
+        "location": "/wiki/info"
+      },
+      {
+        "name": "Useful terminology jp",
+        "section": "Info",
+        "document": "info/useful_terminology_jp",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/info/useful_terminology_jp.md",
+        "location": "/wiki/info"
+      }
+    ]
+  },
+  {
+    "name": "Mission",
+    "documents": [
+      {
+        "name": "Mission for the dataset en",
+        "section": "Mission",
+        "document": "mission/mission_for_the_dataset_en",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/mission/mission_for_the_dataset_en.md",
+        "location": "/wiki/mission"
+      },
+      {
+        "name": "Mission for the dataset jp",
+        "section": "Mission",
+        "document": "mission/mission_for_the_dataset_jp",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/mission/mission_for_the_dataset_jp.md",
+        "location": "/wiki/mission"
       }
     ]
   },
@@ -69,11 +121,56 @@
     "name": "Setup",
     "documents": [
       {
-        "name": "1 setup physical env en",
+        "name": "Setup physical environment en",
         "section": "Setup",
-        "document": "setup/1_setup_physical_env_en",
-        "filepath": "/home/squid/greybitsbox/marinedb/gbbsq_wiki/setup/1_setup_physical_env_en.md",
+        "document": "setup/setup_physical_environment_en",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/setup/setup_physical_environment_en.md",
         "location": "/wiki/setup"
+      },
+      {
+        "name": "Setup physical environment jp",
+        "section": "Setup",
+        "document": "setup/setup_physical_environment_jp",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/setup/setup_physical_environment_jp.md",
+        "location": "/wiki/setup"
+      }
+    ]
+  },
+  {
+    "name": "Taxon",
+    "documents": [
+      {
+        "name": "Common species en",
+        "section": "Taxon",
+        "document": "taxon/common_species_en",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/taxon/common_species_en.md",
+        "location": "/wiki/taxon"
+      },
+      {
+        "name": "Common species jp",
+        "section": "Taxon",
+        "document": "taxon/common_species_jp",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/taxon/common_species_jp.md",
+        "location": "/wiki/taxon"
+      }
+    ]
+  },
+  {
+    "name": "Tips",
+    "documents": [
+      {
+        "name": "Tips of squidle+ en",
+        "section": "Tips",
+        "document": "tips/tips_of_squidle+_en",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/tips/tips_of_squidle+_en.md",
+        "location": "/wiki/tips"
+      },
+      {
+        "name": "Tips of squidle+ jp",
+        "section": "Tips",
+        "document": "tips/tips_of_squidle+_jp",
+        "filepath": "/Users/ariell/projects/squidle.org/marinedb/gbbsq_wiki/tips/tips_of_squidle+_jp.md",
+        "location": "/wiki/tips"
       }
     ]
   }
