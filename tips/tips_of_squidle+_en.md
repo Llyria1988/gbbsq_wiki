@@ -19,5 +19,5 @@ Example:
 If you are GodacEight, add `_GD08` just after `4K-pantilt-4K30p`.
 ![ttips_filter_annotation](../images/tips_filter_annotation_1.png)
 1. Go **Squidle+** window, then click **gear mark** on **LIVE FRAME FEED**.
-1. Copy-paste the unique Camera code which was made on **1.** to **Filter media key:**.
+1. Copy-paste the unique Camera code which was made on **1.** to **Filter media key:**.<br>
 ![ttips_filter_annotation](../images/tips_filter_annotation_2.png)
