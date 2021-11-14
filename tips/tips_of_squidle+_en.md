@@ -17,7 +17,7 @@ If you have no confidence in the taxon ID, activate **YES:flag for review**
 1. Go **SQUIDBIDPRO SETUP** and give unique ID just after Camera code<br>
 Example:
 If you are GodacEight, add `_GD08` just after `4K-pantilt-4K30p`.
-![ttips_filter_annotation](../images/tips_filter_annotation_1.png)<br>
+<img src="../images/tips_flag_for_review.png" width="600"><br>
 1. Go **Squidle+** window, then click **gear mark** on **LIVE FRAME FEED**.
 1. Copy-paste the unique Camera code which was made on **1.** to **Filter media key:**.<br>
 ![ttips_filter_annotation](../images/tips_filter_annotation_2.png)
