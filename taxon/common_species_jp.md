@@ -26,7 +26,7 @@
 ### *Mertensia ovum*<br>
 ![m_ovum](../images/t_mertensia_ovum.png)
 
-### *Cydippida* (river lips)<br>
+### *Cydippida* (liver lips)<br>
 ![c_river_lips](../images/t_cydippida_river_lips.png)
 
 ### *Euplokamis* <br>
