@@ -83,7 +83,7 @@
 ![ptychogena](../images/t_ptychogena.png)
 
 ### *Aeginopsis laurentii* <br>
-![a_laurentii](../images/t_Aeginopsis_laurentii.png)
+![a_laurentii](../images/t_aeginopsis_laurentii.png)
 
 ## Scyphozoa (Class)
 
